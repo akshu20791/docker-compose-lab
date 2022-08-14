@@ -19,6 +19,4 @@ $ docker-compose build
 $ docker-compose up
 ```
 
-## Author
 
-- **Gaël THOMAS** - [gaelgthomas](https://github.com/gaelgthomas)
